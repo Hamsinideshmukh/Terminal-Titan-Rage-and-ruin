@@ -1,4 +1,4 @@
-# The Horde
+# Terminal Titans: Rage and Ruin , A game 
 
 ### A python CLI game with the gameplay as attacking of a village as in Clash of Clans.
 
